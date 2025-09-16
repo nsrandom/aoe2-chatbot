@@ -1,0 +1,11 @@
+requests
+markdownify
+
+langchain
+langchain_community
+langchain-qdrant
+langchain-ollama
+qdrant-client
+ollama
+tqdm
+unstructured
